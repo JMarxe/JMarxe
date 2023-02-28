@@ -5,10 +5,10 @@
 - <b>Business Projects</b>
   - [Miami Towers Residences](https://github.com/JMarxe/MiamiTowersResidences) <b><i>(Project Management)</b></i>
   - [Market Business Process Analysis](https://github.com/JMarxe/MarketBusinessProcessAnalysis)
-  - [Pager Duty](https://github.com/JMarxe/PaperDuty)
+  - [Pager Duty](https://github.com/JMarxe/PaperDuty)<b><i>(ROI Analysis)</b></i>
   - [Railway Tracking and Arrival Time Prediction System](https://github.com/JMarxe/RailwayTracking)
-  - [Home Depot Strategic Management Audit Report](https://github.com/JMarxe/HomeDepotStrategicManagement)
-  - [Best Buy Strategic Management Audit Report](https://github.com/JMarxe/BestBuyStrategicManagement)
+  - [Home Depot Strategic Management](https://github.com/JMarxe/HomeDepotStrategicManagement) <b><i>(Audit Report)</b></i>
+  - [Best Buy Strategic Management](https://github.com/JMarxe/BestBuyStrategicManagement) <b><i>(Audit Report)</b></i>
 
 - <b>Data Analysis</b>
   - [Countries Vaccination](https://github.com/JMarxe/CountriesVaccination) <b><i>(Python)</b></i>
