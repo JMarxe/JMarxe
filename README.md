@@ -11,13 +11,13 @@
   - [Best Buy Strategic Management Audit Report](https://github.com/JMarxe/BestBuyStrategicManagement)
 
 - <b>Data Analysis</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially)</b></i>
+  - [Countries Vaccination](https://github.com/JMarxe/CountriesVaccination) <b><i>(Python)</b></i>
+  - [USA Real Estate](https://github.com/JMarxe/USARealEstateDataAnalysis) <b><i>(R Programming)</b></i>
+  - [Fuel Economy](https://github.com/JMarxe/FuelEconomyDataAnalysis) <b><i>(R Programming)</b></i>
+  - [Relation Between Macronutrients and Body Mass Index](https://github.com/JMarxe/InteractiveMacronutrientsBMI) <b><i>(Tableau)</b></i>
 
 - <b>Programming</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Credit Rating Design](https://github.com/JMarxe/CreditRatingDesign) <b><i>(Java)</b></i>
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -28,7 +28,7 @@
 [linkedin]: https://linkedin.com/in/jluq/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JorgeLuque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
