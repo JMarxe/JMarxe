@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jorge! <br/>Information Technology and Business Specialist</h1>
+<h1>Hi, I'm Jorge! <br/>Information Technology & Business Specialist</h1>
 
 <h2>👨‍💻 Projects:</h2>
 
