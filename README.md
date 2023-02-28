@@ -2,8 +2,13 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Project Management</b>
-  - [Miami Towers Residences](https://github.com/JMarxe/MiamiTowersResidences)
+- <b>Business Projects</b>
+  - [Miami Towers Residences](https://github.com/JMarxe/MiamiTowersResidences) <b><i>(Project Management)</b></i>
+  - [Market Business Process Analysis](https://github.com/JMarxe/MarketBusinessProcessAnalysis)
+  - [Pager Duty](https://github.com/JMarxe/PaperDuty)
+  - [Railway Tracking and Arrival Time Prediction System](https://github.com/JMarxe/RailwayTracking)
+  - [Home Depot Strategic Management Audit Report](https://github.com/JMarxe/HomeDepotStrategicManagement)
+  - [Best Buy Strategic Management Audit Report](https://github.com/JMarxe/BestBuyStrategicManagement)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially)</b></i>
 - <b>PowerShell</b>
