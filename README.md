@@ -18,6 +18,7 @@
 
 - <b>Programming</b>
   - [Credit Rating Design](https://github.com/JMarxe/CreditRatingDesign) <b><i>(Java)</b></i>
+  - [A/C Unit](https://github.com/JMarxe/AC-Unit) <b><i>(Java)</b></i>
 
 <h2> 🤳 Connect with me:</h2>
 
