@@ -25,7 +25,7 @@
 [<img align="left" alt="JorgeLuque | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JorgeLuque | ProtonMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />][email]
 
-[email]: mailto:JoLuq@proton.me
+[email]: mailto:LuqJo@outlook.com
 [linkedin]: https://linkedin.com/in/jluq/
 
 <!--
