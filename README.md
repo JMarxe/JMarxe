@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Business Projects</b>
+- <b>Business Process Analysis</b>
   - [Miami Towers Residences](https://github.com/JMarxe/MiamiTowersResidences) <b><i>(Project Management)</b></i>
   - [Hanna and Tiger](https://github.com/JMarxe/HannaandTiger) <b><i>(Process Analysis)</b></i>
   - [Pager Duty](https://github.com/JMarxe/PaperDuty) <b><i>(ROI Analysis)</b></i>
