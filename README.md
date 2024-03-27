@@ -16,7 +16,7 @@
   - [Fuel Economy](https://github.com/JMarxe/FuelEconomyDataAnalysis) <b><i>(R Programming)</b></i>
   - [Relation Between Macronutrients and Body Mass Index](https://github.com/JMarxe/InteractiveMacronutrientsBMI) <b><i>(Tableau)</b></i>
 
-- <b>Programming</b>
+- <b>Software Development</b>
   - [Credit Rating Design](https://github.com/JMarxe/CreditRatingDesign) <b><i>(Java)</b></i>
   - [A/C Unit](https://github.com/JMarxe/AC-Unit) <b><i>(Java)</b></i>
 
